@@ -1,0 +1,5 @@
+# Ignore uploaded images
+uploads/
+
+# Ignore Composer dependencies
+vendor/
